@@ -4,4 +4,13 @@
 
 :root {
   background-color: #242424;
+  font-family:Arial, Helvetica, sans-serif
+}
+
+svg {
+  fill: rgba(0, 0, 0, 0.5)
+}
+
+svg:hover {
+  fill: rgba(0, 0, 0, 0.7);
 }
