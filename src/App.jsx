@@ -16,7 +16,7 @@ function App() {
   };
 
   useEffect(() => {
-    getMovies("spiderman");
+    getMovies("batman");
   }, []);
 
   return (
